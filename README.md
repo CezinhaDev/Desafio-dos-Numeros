@@ -1,0 +1,2 @@
+Objetivo e Motivação
+Decidi desenvolver o projeto de um jogo de adivinhação de números utilizando JavaScript para aprimorar minhas habilidades de programação e me desafiar com um problema divertido e interativo. A criação deste jogo oferece uma excelente oportunidade para consolidar conhecimentos em lógica de programação, manipulação do DOM (Document Object Model), e gerenciamento de eventos em JavaScript.
